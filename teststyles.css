@@ -1,0 +1,17 @@
+
+body {
+    background-color: rgb(114, 223, 181);
+}
+body >div {
+    display: flex;
+    flex-wrap: wrap;
+    }
+div {
+    background-color: yellowgreen;
+    height:70px;
+    width: 175px;
+    border: 2px solid green;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+}
